@@ -1,12 +1,14 @@
-# RF
 
-- [x] O usuário deve poder criar uma nova transação;
-- [x] O usuário deve poder obter um resumo da sua conta;
-- [x] O usuário deve poder listar todas as transações que já ocorreram;
-- [x] O usuário deve poder visualizar uma transação única;
 
-# RN
+### Functional Requirements (FR)
 
-- [x] A transação pode ser do tipo crédito que somará ao valor total, ou débito subtrairá;
-- [x] Deve ser possivel identificarmos o usuário entre as requisições;
-- [x] O usuário só pode visualizar transações o qual ele criou;
+- [x] The user must be able to create a new transaction.
+- [x] The user must be able to get a summary of their account.
+- [x] The user must be able to list all transactions that have occurred.
+- [x] The user must be able to view a single transaction.
+
+### Non-Functional Requirements (NR)
+
+- [x] The transaction can be of the type credit, which will add to the total amount, or debit, which will subtract from it.
+- [x] It must be possible to identify the user between requests.
+- [x] The user can only view transactions that they have created.
